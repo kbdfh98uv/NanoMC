@@ -3,7 +3,7 @@ mouseSensitivity:0.5
 fov:1.0
 gamma:1.0
 saturation:0.0
-renderDistance:16
+renderDistance:4
 guiScale:2
 particles:2
 bobView:false
@@ -11,10 +11,10 @@ anaglyph3d:false
 maxFps:260
 fboEnable:true
 difficulty:2
-fancyGraphics:true
-ao:1
+fancyGraphics:false
+ao:0
 renderClouds:false
-resourcePacks:[]
+resourcePacks:["file/8X8 FPS BOOST PACK"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_US
@@ -23,7 +23,7 @@ chatColors:true
 chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
-snooperEnabled:true
+snooperEnabled:false
 fullscreen:false
 enableVsync:false
 useVbo:true
